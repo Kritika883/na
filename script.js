@@ -8,6 +8,7 @@ const images = [
     { src: 'OIP (6).jpeg', hdSrc: 'OIP (6).jpeg', caption: 'Thats a picturesque scene! Capturing moments in nature with a camera and tripod, how peaceful and creative!' },
     { src: 'OIP (7).jpeg', hdSrc: 'OIP (7).jpeg', caption: 'What a beautiful moment in the sunlit field! Enjoying natures embrace, it looks so peaceful and serene!' },
     { src: 'OIP (8).jpeg', hdSrc: 'OIP(8).jpeg', caption: 'What a peaceful scene by the blue stream and wooden fence! Natures beauty always brings a sense of calm and tranquillity'},
+    { src: 'OIP (7).jpeg', hdSrc: 'OIP (7).jpeg', caption: 'What a beautiful moment in the sunlit field! Enjoying natures embrace, it looks so peaceful and serene!' },
 
     // Add more images (8 total)
 ];
